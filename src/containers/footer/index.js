@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import { FaFacebook, FaTwitterSquare, FaYoutube } from 'react-icons/fa';
 import { IconContext } from 'react-icons';
 import {
