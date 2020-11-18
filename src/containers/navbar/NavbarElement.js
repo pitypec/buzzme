@@ -2,10 +2,6 @@ import styled from 'styled-components';
 import { Link as LinkS } from 'react-scroll';
 import { Link as LinkR } from 'react-router-dom';
 
-// #4B00FF primary
-// #432190 hover
-// #01011E black
-
 export const Nav = styled.nav`
   background: #01011e;
   height: 80px;
