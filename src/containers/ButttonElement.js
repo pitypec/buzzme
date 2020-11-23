@@ -2,6 +2,7 @@ import styled from 'styled-components';
 import { Link as LinkS } from 'react-scroll';
 
 export const Button = styled(LinkS)`
+  cursor: pointer;
   padding: ${({ big }) => (big ? '14px 48px' : '12px 30px')};
   text-decoration: none;
   outline: none;
